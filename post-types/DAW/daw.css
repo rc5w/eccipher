@@ -1,0 +1,51 @@
+#wire-rht h2 {
+    margin: 5px 0;
+    color: #999;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.search-body-box {
+    width: 100%;
+    border-top: solid 1px #dddddd;
+    border-left: solid 1px #dddddd;
+    border-right: solid 1px #dddddd;
+    margin-bottom: 20px;
+}
+
+.search-body-box-item {
+    border-bottom: solid 1px #dddddd;
+    padding: 25px 10px;
+}
+
+.search-body-box-item a.spotify-logo {
+     background-image: url(../../assets/img/search-results/spotify-logo.svg);
+    width: 104px;
+    height: 32px;
+    display: block;
+    margin: 0 auto;
+    background-size: 100%;
+}
+
+.search-body-box-item a.spotify-logo:hover {
+        background-image: url(../../assets/img/search-results/spotify-logo-color.svg);
+    background-size: 100%;
+}
+
+.search-body-box-item a.itunes-logo {
+
+     background-image: url(../../assets/img/search-results/itunes-logo.svg);
+    width: 104px;
+    height: 32px;
+    display: block;
+    margin: 0 auto;
+    background-size: 100%;
+}
+
+
+
+.search-body-box-item a.itunes-logo:hover {
+     background-image: url(../../assets/img/search-results/itunes-logo-color.svg);
+    background-size: 100%;
+}
